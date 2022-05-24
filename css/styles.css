@@ -1,5 +1,4 @@
 .logoUp {
-  position: absolute;
   width: 145px;
   height: 31px;
   left: 215px;
@@ -31,6 +30,7 @@
 }
 a {
   text-decoration: none;
+  color: #757575;
 }
 a:hover {
   color: #2196f3;
@@ -85,4 +85,10 @@ footer {
 }
 .hrefTopColor {
   color: #757575;
+}
+.SectionOurTeam {
+  background-color:#F5F4FA
+}
+.secondColor {
+  color: black
 }
